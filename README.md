@@ -6,9 +6,9 @@
 ░░░╚═╝░░░╚═╝░░╚═╝░╚═════╝░╚═╝░░╚══╝╚═════╝░╚══════╝╚═╝░░╚═╝
 
 # Enviroment Variables
-Token: Your Bot Token
-AutoDelete: AutoDelete Delay
-Prefix: Prefix of the Bot (Default: .)
+Token: Your Bot Token |
+AutoDelete: AutoDelete Delay |
+Prefix: Prefix of the Bot (Default: .) |
 
 # How to Add Accounts
 Create a new .txt file name it as the service you want your users to generate
