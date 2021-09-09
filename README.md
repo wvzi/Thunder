@@ -27,6 +27,13 @@ git clone https://github.com/wvzi/Thunder
 pip install discord
 ```
 
+# Requirements
+
+- `Python 3.0+`, download here(https://www.python.org/)
+- `pip` Usually already installed by default
+- `git`, for cloning it
+
+
 # Contact
 - Any issues contact wvzidev@outlook.com
 
