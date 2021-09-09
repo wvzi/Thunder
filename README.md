@@ -29,9 +29,9 @@ pip install discord
 
 # Requirements
 
-- `Python 3.0+`, download here(https://www.python.org/)
+- `Python 3.0+`, download here (https://www.python.org/)
 - `pip` Usually already installed by default
-- `git`, for cloning it
+- `git` for cloning it
 
 
 # Contact
