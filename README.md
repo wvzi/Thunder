@@ -5,7 +5,7 @@
  ░░░██║░░░██║░░██║╚██████╔╝██║░╚███║██████╔╝███████╗██║░░██║
  ░░░╚═╝░░░╚═╝░░╚═╝░╚═════╝░╚═╝░░╚══╝╚═════╝░╚══════╝╚═╝░░╚═╝
 
-# Environment Variables
+# Environment Variables (All Located in config.json)
 
 - `TOKENHERE`, the discord bot token
 - `PREFIX` the discord bot prefix, Default is: `.`
@@ -27,7 +27,7 @@ git clone https://github.com/wvzi/Thunder
 pip install discord
 ```
 
-# Requirements
+# Requirements 
 
 - `Python 3.0+`, download here (https://www.python.org/)
 - `pip` Usually already installed by default
